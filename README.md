@@ -1,2 +1,0 @@
-# styledcomponentsexmpl
-Created with CodeSandbox
